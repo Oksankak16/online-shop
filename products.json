@@ -55,4 +55,11 @@
         "description": "Best sports car in the World",
         "price": 249999.99
     }
+    {
+        "id": "9",
+        "title": "Horse",
+        "image": "blog.jpg",
+        "description": "Best horse in the World",
+        "price": 2000.00
+    }
 ]
